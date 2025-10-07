@@ -1,0 +1,10 @@
+C:\Users\Italia\Desktop\ContactManager\ContactManager.UI\obj\Debug\ContactManager.UI.csproj.AssemblyReference.cache
+C:\Users\Italia\Desktop\ContactManager\ContactManager.UI\obj\Debug\ContactManager.UI.csproj.CoreCompileInputs.cache
+C:\Users\Italia\Desktop\ContactManager\ContactManager.UI\bin\Debug\ContactManager.UI.exe.config
+C:\Users\Italia\Desktop\ContactManager\ContactManager.UI\bin\Debug\ContactManager.UI.exe
+C:\Users\Italia\Desktop\ContactManager\ContactManager.UI\bin\Debug\ContactManager.UI.pdb
+C:\Users\Italia\Desktop\ContactManager\ContactManager.UI\bin\Debug\Contact.Lib.dll
+C:\Users\Italia\Desktop\ContactManager\ContactManager.UI\bin\Debug\Contact.Lib.pdb
+C:\Users\Italia\Desktop\ContactManager\ContactManager.UI\obj\Debug\ContactManager.UI.csproj.CopyComplete
+C:\Users\Italia\Desktop\ContactManager\ContactManager.UI\obj\Debug\ContactManager.UI.exe
+C:\Users\Italia\Desktop\ContactManager\ContactManager.UI\obj\Debug\ContactManager.UI.pdb
